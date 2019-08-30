@@ -33,7 +33,7 @@ class Song
     @@count
   end
   
-  def artists
+  def self.artists
     @@artists
   end
   
