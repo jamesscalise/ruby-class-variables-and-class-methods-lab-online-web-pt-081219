@@ -29,6 +29,10 @@ class Song
     end
   end
   
+  def count
+    @@count
+  end
+  
   def artists
     @@artists
   end
